@@ -1,6 +1,8 @@
 # 🌈Seventeen-rainbow-far 次言次语 
 
-![seventeen]{main/seventeen.jpg}
+<div align=center>
+<img src=seventeen.jpg>
+</div>
 
 💎克拉们看过来看过来！！这是基于佐伯楽的 🌈 Rainbow Fart 插件制作的seventeen语音包。素材基本来自于《going seventeen》，大都是次言次语，也使用了一些小音效。
 
