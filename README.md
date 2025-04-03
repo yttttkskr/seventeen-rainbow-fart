@@ -1,4 +1,4 @@
-# 🌈Seventeen-rainbow-far 次言次语 
+# 🌈Seventeen-rainbow-fart 次言次语 
 
 <div align=center>
 <img src=seventeen.jpg>
